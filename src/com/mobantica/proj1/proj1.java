@@ -26,7 +26,7 @@ import android.os.Bundle;
 
 public class proj1 extends DroidGap
 {
-	int a=10;
+
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
